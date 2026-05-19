@@ -1,4 +1,5 @@
 # Question 1: Methods and Control Structures
+Question 1 involves creating algorithms in order to allow a user to create a username that is available (part A) and a method that removes the hyphen and letter preceding the hyphen within the username (part B). 
 
 # Part A 
 ## My Approach
