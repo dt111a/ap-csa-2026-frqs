@@ -6,6 +6,7 @@ Part B: The question involves returning a String word that removes all the hyphe
 
 
 Key Skills: 
+
 While loop 
 Understanding properties of the String Class 
 Algorithms
