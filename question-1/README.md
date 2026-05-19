@@ -4,8 +4,13 @@ Part A: For Part A, the question asks if a certain name is available and not tak
 
 Part B: The question involves returning a String word that removes all the hyphens and the letter preceding the hyphen as well. My code works in the form of a while loop that checks if there is a hyphen within the username String. If a hyphen is found, then the username is substringed to remove both the hyphen and the letter before it, and it is repeated until there is no longer a hyphen in the word (or when the indexOf the hyphen is -1).
 
+
 Key Skills: 
+
 While loop 
+
 Understanding properties of the String Class 
+
 Algorithms
+
 Classes 
