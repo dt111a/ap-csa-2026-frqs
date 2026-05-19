@@ -1,1 +1,2 @@
-
+# Question 3: Array List Algorithms 
+This question involves extracting data from an ArrayList of Attendance objects, which hold the data for the ID of a given student and that student's attendance. The question asks for a method that determines the number of students who are in both the Math Class (mathList) and History Class (historyList) and has more absences in history than math, and returns that count of students. 
